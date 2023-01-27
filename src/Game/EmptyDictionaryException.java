@@ -1,0 +1,6 @@
+package Game;
+
+public class EmptyDictionaryException extends Exception {
+	//Thrown when dictionary file is empty or no words in dictionary match the length asked for
+    public EmptyDictionaryException(String message) { super(message); }
+}
