@@ -4,24 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b6859b3-0c1e-47dd-a902-d5a15a538498" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EvilHangman.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/empty.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gameWords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game/EmptyDictionaryException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game/EvilHangman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game/EvilHangmanGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game/GuessAlreadyMadeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game/IEvilHangmanGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="9b6859b3-0c1e-47dd-a902-d5a15a538498" name="Changes" comment="First upload">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game/EvilHangman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/EvilHangman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game/EvilHangmanGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/EvilHangmanGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,8 +96,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.EvilHangman" />
-        <item itemvalue="JUnit.passoff in EvilHangman" />
         <item itemvalue="JUnit.Game in EvilHangman" />
+        <item itemvalue="JUnit.passoff in EvilHangman" />
       </list>
     </recent_temporary>
   </component>
@@ -124,6 +110,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674764390974</updated>
     </task>
+    <task id="LOCAL-00001" summary="First upload">
+      <created>1674848798499</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674848798499</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +130,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="First upload" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
